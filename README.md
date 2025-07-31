@@ -31,8 +31,7 @@ HR departments can use this dashboard to:
 
 ## 📸 Sample Visuals
 > Below are example visuals from the dashboard:
-![Dashboard Overview](977e1f25-6d82-4bdf-a3a9-386bca04703f.png)
-![Attrition Analysis](b9791642-0f22-4234-90bd-b8cb8f184e9a.png)
+![Dashboard Overview][(977e1f25-6d82-4bdf-a3a9-386bca04703f.png)](https://github.com/Saptarshi1021/Hr-Analytics-Dashboard/blob/main/Snapshort%20of%20Dashboard.png)
 
 ## 🚀 How to Use
 1. Clone this repository.
